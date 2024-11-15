@@ -3,11 +3,13 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"snd_musicloops","path":"sounds/snd_musicloops/snd_musicloops.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":6,},
     {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},"order":15,},
     {"id":{"name":"spr_player_ldle","path":"sprites/spr_player_ldle/spr_player_ldle.yy",},"order":4,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_GameController","path":"objects/obj_GameController/obj_GameController.yy",},"order":2,},
     {"id":{"name":"tile_wall","path":"tilesets/tile_wall/tile_wall.yy",},"order":0,},
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},"order":5,},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},"order":7,},
