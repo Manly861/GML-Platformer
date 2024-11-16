@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_door","order":3,"path":"objects/obj_door/obj_door.yy",},
+    {"name":"obj_GameController","order":2,"path":"objects/obj_GameController/obj_GameController.yy",},
+    {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_cloud","order":15,"path":"sprites/spr_cloud/spr_cloud.yy",},
+    {"name":"spr_door","order":9,"path":"sprites/spr_door/spr_door.yy",},
+    {"name":"spr_grain","order":6,"path":"sprites/spr_grain/spr_grain.yy",},
+    {"name":"spr_player_jump","order":5,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
+    {"name":"spr_player_ldle","order":4,"path":"sprites/spr_player_ldle/spr_player_ldle.yy",},
+    {"name":"spr_player_walk","order":7,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
+    {"name":"spr_wall1","order":8,"path":"sprites/spr_wall1/spr_wall1.yy",},
+  ],
+}
